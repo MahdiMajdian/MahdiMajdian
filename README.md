@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Mahdi here!</h1>
-<h3 align="center">I love javascript, not to mention React and Next.js</h3>
+<h3 align="center">Typescript is the key to everything</h3>
 
 
 <h3 align="center">Technologies:</h3>
